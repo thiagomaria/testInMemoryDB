@@ -53,18 +53,18 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-    		<groupId>org.hsqldb</groupId>
-    		<artifactId>hsqldb</artifactId>
-    		<version>2.4.0</version>
+			<groupId>org.hsqldb</groupId>
+			<artifactId>hsqldb</artifactId>
+			<version>2.4.0</version>
 		</dependency>
 		<dependency>
-    		<groupId>com.zaxxer</groupId>
-    		<artifactId>HikariCP</artifactId>
+			<groupId>com.zaxxer</groupId>
+			<artifactId>HikariCP</artifactId>
 		</dependency>
 		<dependency>
-    		<groupId>org.dbunit</groupId>
-    		<artifactId>dbunit</artifactId>
-   			<version>2.4.9</version>
+			<groupId>org.dbunit</groupId>
+			<artifactId>dbunit</artifactId>
+			<version>2.4.9</version>
 		</dependency>
 	</dependencies>
 
